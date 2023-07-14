@@ -21,3 +21,10 @@ followed by a new line
 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 mandatory
 Write a program that prints the alphabet in lowercase, followed by a new line.
+3. alphABET
+mandatory
+Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+
+You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+All your code should be in the main function
+You can only use putchar three times in your code
