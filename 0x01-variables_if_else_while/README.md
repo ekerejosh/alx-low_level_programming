@@ -39,3 +39,9 @@ You can only use putchar twice in your code
 5. Numbers
 mandatory
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+6. Numberz
+mandatory
+Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+7. Smile in the mirror
+mandatory
+Write a program that prints the lowercase alphabet in reverse, followed by a new line.
