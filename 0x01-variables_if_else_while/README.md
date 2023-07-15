@@ -53,3 +53,5 @@ Write a program that prints all possible combinations of single-digit numbers.
 Write a program that prints all possible different combinations of two digits.
 11. The success combination in business is: Do what you do better... and: do more of what you do...
 Write a program that prints all possible different combinations of three digits.
+12. Software is eating the World
+Write a program that prints all possible combinations of two two-digit numbers.
