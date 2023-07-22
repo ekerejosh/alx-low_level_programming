@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - Entry point of the program
+ *
+ * Return: no return
+ */
 int main(void)
 {
 	int n;
