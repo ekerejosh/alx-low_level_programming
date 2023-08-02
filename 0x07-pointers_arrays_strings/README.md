@@ -12,3 +12,5 @@ Write a function that gets the length of a prefix substring.
 means that you need to create a function that calculates and returns the length of a substring that is a prefix of a given string.
 4. strpbrk
 Write a function that searches a string for any of a set of bytes
+5. strstr
+Write a function that locates a substring.
