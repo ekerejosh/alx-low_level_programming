@@ -7,3 +7,6 @@ means that you need to create a function that takes two memory areas (source and
 2. strchr
 Write a function that locates a character in a string.
 means that you need to create a function that searches for a specific character within a given string. The function should return a pointer to the first occurrence of the character in the string if it's found, or a null pointer if the character is not present.
+3. strspn
+Write a function that gets the length of a prefix substring.
+means that you need to create a function that calculates and returns the length of a substring that is a prefix of a given string.
