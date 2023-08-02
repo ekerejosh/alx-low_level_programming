@@ -4,3 +4,6 @@ means that you need to create a function that takes a block of memory and fills 
 1. memcpy
 Write a function that copies memory area.
 means that you need to create a function that takes two memory areas (source and destination) and copies the content from the source memory area to the destination memory area.
+2. strchr
+Write a function that locates a character in a string.
+means that you need to create a function that searches for a specific character within a given string. The function should return a pointer to the first occurrence of the character in the string if it's found, or a null pointer if the character is not present.
